@@ -272,6 +272,7 @@ namespace Text_based_RPG
             }
 
         }
+        /*
         public void Adventure()
         {
             int rooms = 0;
@@ -299,7 +300,7 @@ namespace Text_based_RPG
 
 
         } }
-        
+        */
         
         public void SeeStats()
         {
